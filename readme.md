@@ -1,4 +1,4 @@
-# <samp>Discord.JS Bot Template</samp>
+# <samp>Super Basic Discord.JS Bot Template</samp>
 
 ## Setup
 
